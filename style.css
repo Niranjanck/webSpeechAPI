@@ -2,7 +2,6 @@ html {
 	padding: 0;
 }
 body {
-	background-color: #0d1219;
 	display: flex;
 	background-image: url('./assets/f.jpg');
 	background-repeat: no-repeat;
@@ -24,7 +23,6 @@ body {
 	background-color: rgb(255, 255, 255);
 }
 .anchor{
-	color:"white";
 }
 #listen{
 	border-radius: 5px;
